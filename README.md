@@ -1,5 +1,6 @@
-
-
+# This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
+https://dev.azure.com/meghakadur/meghakadur/_apis/build/status/Megha138.ContosoAir?branchName=master
+[![Build Status](https://dev.azure.com/meghakadur/meghakadur/_apis/build/status/Megha138.ContosoAir?branchName=master)](https://dev.azure.com/meghakadur/meghakadur/_build/latest?definitionId=1&branchName=master)
 
 # Microsoft.Github CI Demo
 
