@@ -2,10 +2,7 @@
 https://dev.azure.com/meghakadur/meghakadur/_apis/build/status/Megha138.ContosoAir?branchName=master
 [![Build Status](https://dev.azure.com/meghakadur/meghakadur/_apis/build/status/Megha138.ContosoAir?branchName=master)](https://dev.azure.com/meghakadur/meghakadur/_build/latest?definitionId=1&branchName=master)
 
-# Microsoft.Github CI Demo
 
-Demo website application for Contoso Air.  
-Runs a nodejs server (Express v4.16) that stores customer booked flights in a CosmosDb database.
 
 ## Requirements
 
