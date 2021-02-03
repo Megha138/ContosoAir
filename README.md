@@ -11,7 +11,7 @@ https://dev.azure.com/meghakadur/meghakadur/_apis/build/status/Megha138.ContosoA
 
 ## Local Environment Setup
 
-This project uses ES6, and has been tested with nodejs v8.9.4   ksbhdisbfosodfjsapo
+This project uses ES6, and has been tested with nodejs v8.9.4   ksbhdisbfosodf
 There is almost no front-end logic. Still, the application uses webpack to compile sass styles and bundle third parties js files. If you want to modify any front logic or style run `npm run local:build`.
 
 In order to launch a local server on port 3000 (can be modified with environment variable PORT) run:
